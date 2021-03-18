@@ -6,9 +6,9 @@ const SpotifyWebApi = require("spotify-web-api-node");
 
 const app = express();
 
-const redirectUrl = "http://localhost:3000";
-const clientID = "73bbbb728c664065a9d6256795922d7f";
-const clientSecret = "f494d989a0f642f8a8a773f63036fe93";
+const redirectUrl = ""; // local host 3k
+const clientID = ""; // obtained from spotify dev client
+const clientSecret = ""; // obtained from spotify dev client
 
 app.use(cors());
 app.use(bodyParser.json());
