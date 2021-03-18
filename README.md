@@ -1,2 +1,0 @@
-# SpotifyClone
-WebDevSimplified Tutorial
