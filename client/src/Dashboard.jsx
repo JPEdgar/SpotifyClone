@@ -6,7 +6,7 @@ import TrackSearchResult from "./TrackSearchResult";
 import Player from "./Player";
 import axios from "axios";
 
-const clientId = "73bbbb728c664065a9d6256795922d7f";
+const clientId = "";
 const serverHost = "http://localhost:3001/";
 
 const spotifyApi = new SpotifyWebApi({
